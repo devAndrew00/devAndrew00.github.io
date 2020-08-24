@@ -41,6 +41,9 @@ p {
 }
 
 @media (min-width: 992px) {
+  h1{
+  margin-bottom:2em;  
+  }
   .col-lg-4 {
     width: 31%;
     float: left;
@@ -48,6 +51,9 @@ p {
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+   h1{
+  margin-bottom:1.5em;  
+  }
   .col-md-6 {
     width: 47%;
     float: left;
